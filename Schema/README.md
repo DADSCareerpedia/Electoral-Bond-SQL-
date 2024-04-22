@@ -63,7 +63,7 @@ Only few SBI branches are authorized to issue and enchase  Electoral bond  and 
 
 # Final Data Base Schema & Tables : 
 
-![Schema](Final Schema.png) 
+![](https://github.com/DADSCareerpedia/Electoral-Bond-SQL-/blob/main/Schema/Final%20Schema.png) 
 
 
 The data base has 4 tables : `SHOW TABLES` 
